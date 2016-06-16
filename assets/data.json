@@ -1,0 +1,58 @@
+{ "langs":[
+	{
+		"t1" : "Acrylic on the lower front smoothly polished \nwith no inter-dental tooth contact, \nalso no contact with the mucous membranes",
+		"t2" : "Labial bow running across the lower third of the upper \nincisors with 2mm clearance",
+		"t3" : "Frenum is well relieved",
+		"t4" : "Wire buccal shielding to relieve teeth from buccal muscle \npressure extending to the middle of the first molar",
+		"t5" : "Buccal wire entering the acrylic wire, protected from damage \nwith silicone tube during manufacture, later cut off \nand protecting wire / acrylic transition reducing breakage",
+		"t6" : "Coffin spring adjusting the position of the tongue",
+		"t7" : "Highly polished acrylic basis extending approximately 3mm vertically \nfrom the cervical margin and left 12 hours in a warm water \nbath to neutralise the acrylic",
+		"t8" : "With an “Open Bite Bionator” acrylic is raised behind \nthe front teeth as a tongue guard",
+		"t9" : "Palatal cusps of tooth being used for vertical stability",
+		"t10" : "Acrylic noses left to provide horizontal support ",
+		"t11" : "Acrylic trimmed to occlusal plane allowing tooth to elongate \nso raising the bite"
+	},
+
+	{
+		"t1" : "Kunststoff an der Unterkieferfront ganz glatt polieren, kein interdentaler Kontakt, kein Schleimhautkontakt!",
+		"t2" : "Labialbogen verläuft im untersten Drittel der Labialflächen der OK-Frontzähne mit ca. 2mm Abstand",
+		"t3" : "Zungenbändchen ist gut ausgespart",
+		"t4" : "Buccinatorschlaufen, um die Muskulatur von den Seitenzähnen abzuhalten, sie reichen bis zur der Mitte der ersten Molaren.",
+		"t5" : "Das Austreten des Labial-, Bukkalbügels ist geschützt mit einem Silikonschlauch, um Brüche zu vermeiden.",
+		"t6" : "Zungenbügel um die Position der Zunge zu kontrollieren",
+		"t7" : "Die Ausdehnung der vertikalen Basis. OK-UK jeweils ca. 3 mm vom Cervikalrand ",
+		"t8" : "Beim Abschirmgerät besteht in diesem Gebiet die Möglichkeit, den Kunststoff als Zungenschutz zu benutzen.",
+		"t9" : "Stützzähne, belassener Zahnabdruck (palatinale Höcker), als Sicherung gegen vertikales Ausweichen des Bionators",
+		"t10" : "Nasen zur Sicherung gegen sagitales Ausweichen des Bionators",
+		"t11" : "Zahnbett ausgefräst bis zur Berührung mit der Kauebeneneinzeichnung zur Freigabe des Zahndurchbruchs."
+	},
+
+	{
+		"t1" : "Lower front acrylic support",
+		"t2" : "Labial bow (used as lip shield)",
+		"t3" : "Cut out for the tongue",
+		"t4" : "Buccal shields",
+		"t5" : "Labial and buccal wire enters the acrylic",
+		"t6" : "Coffin spring for the tongue",
+		"t7" : "Highly polished acrylic basis left 12 hours in a water bath to neutralise the acrylic",
+		"t8" : "Fortified base to reduce repairs",
+		"t9" : "Tooth impression left for vertical support",
+		"t10" : "Acrylic nose left for horizontal support",
+		"t11" : "Acrylic trimmed allowing tooth to elongate"
+	},
+
+	{
+		"t1" : "Kunststoffabstützung der UK-Frontzähne",
+		"t2" : "Labialbogen (dient zur Abschirmung der Lippe)",
+		"t3" : "Aussparung des Zungenbändchens",
+		"t4" : "Buccinatorschlaufen (Abschirmung der Wange)",
+		"t5" : "Eingang des Drahtes in den Kunststoff",
+		"t6" : "Zungenbügel (Coffinfeder)",
+		"t7" : "Hochglanzpolierte Kunststoffbasis, ohne Rillen und Kanten, 12 Stunden im Wasser gelagert zum Neutralisieren",
+		"t8" : "Verstärkte Kunststoffvorderseite (verringerte Bruchgefahr)",
+		"t9" : "Belassener Zahnabdruck als Sicherung gegen vertikales Ausweichen",
+		"t10" : "Kunststoffnasen zur Sicherung gegen Vorverlagerung des Bionators",
+		"t11" : "Kauflächen ausgefräst bis zur Berührung mit der Kauebenen Einzeichnung"
+	}
+]}
+

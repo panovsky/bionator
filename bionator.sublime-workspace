@@ -1,0 +1,850 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"height"
+			],
+			[
+				"attr",
+				"attrMarker"
+			],
+			[
+				"bu",
+				"bubbleL"
+			],
+			[
+				"bubb",
+				"bubbleR"
+			],
+			[
+				"sett",
+				"setTo"
+			],
+			[
+				"bub",
+				"bubbleR"
+			],
+			[
+				"le",
+				"length-1"
+			],
+			[
+				"in",
+				"indx"
+			],
+			[
+				"set",
+				"setext"
+			],
+			[
+				"txt",
+				"txts"
+			],
+			[
+				"fra",
+				"frmeDelta"
+			],
+			[
+				"mar",
+				"markers"
+			],
+			[
+				"pos",
+				"posStart"
+			],
+			[
+				"new",
+				"newMarker"
+			],
+			[
+				"eurec",
+				"eurecaServer"
+			],
+			[
+				"eure",
+				"eurecaClien"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"eu",
+				"EurecaServer"
+			],
+			[
+				"my",
+				"myHeight"
+			],
+			[
+				"gree",
+				"greenPawn"
+			],
+			[
+				"add",
+				"addInv"
+			],
+			[
+				"va",
+				"vacant"
+			],
+			[
+				"inv",
+				"invIndex"
+			],
+			[
+				"sta",
+				"startPointY"
+			],
+			[
+				"to",
+				"toCoordY"
+			],
+			[
+				"toco",
+				"toCoordY"
+			],
+			[
+				"start",
+				"startPointY"
+			],
+			[
+				"star",
+				"startX"
+			],
+			[
+				"dra",
+				"dragObj"
+			],
+			[
+				"green",
+				"greenKing"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"ti",
+				"tile"
+			],
+			[
+				"file",
+				"field"
+			],
+			[
+				"str",
+				"startPointY"
+			],
+			[
+				"frp",
+				"frpt"
+			],
+			[
+				"mas",
+				"maskfr6"
+			],
+			[
+				"maskf",
+				"maskfr6"
+			],
+			[
+				"maskfr",
+				"maskfr6"
+			],
+			[
+				"s",
+				"scale"
+			],
+			[
+				"h",
+				"hco"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"red",
+				"red2"
+			],
+			[
+				"la",
+				"load"
+			],
+			[
+				"len",
+				"length-1"
+			],
+			[
+				"b7",
+				"b7press"
+			],
+			[
+				"b6",
+				"b6press"
+			],
+			[
+				"b3",
+				"b3press"
+			],
+			[
+				"ga",
+				"game"
+			],
+			[
+				"time",
+				"timeout	setTimeout function"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"b2",
+				"b2press"
+			],
+			[
+				"play",
+				"playPress"
+			],
+			[
+				"upda",
+				"update2"
+			],
+			[
+				"btn",
+				"btns"
+			],
+			[
+				"loa",
+				"load"
+			],
+			[
+				"ma",
+				"maskT"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"bt",
+				"btns"
+			],
+			[
+				"fram",
+				"fram"
+			],
+			[
+				"frame",
+				"frameAdd"
+			],
+			[
+				"au",
+				"audio"
+			],
+			[
+				"l",
+				"length-1"
+			],
+			[
+				"st",
+				"start0"
+			],
+			[
+				"load",
+				"loadTexture"
+			],
+			[
+				"gam",
+				"gameState"
+			],
+			[
+				"0x",
+				"0xeeeeee"
+			],
+			[
+				"se",
+				"setTo"
+			],
+			[
+				"an",
+				"anchor"
+			],
+			[
+				"b1",
+				"b1press"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1139,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/bionator_d.js",
+			"settings":
+			{
+				"buffer_size": 11963,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/bionator_p.js",
+			"settings":
+			{
+				"buffer_size": 11795,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/bionator_s.js",
+			"settings":
+			{
+				"buffer_size": 11803,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "readme.txt",
+			"settings":
+			{
+				"buffer_size": 802,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/data.json",
+			"settings":
+			{
+				"buffer_size": 3586,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "roadmap",
+			"settings":
+			{
+				"buffer_size": 1065,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 289.0,
+		"history":
+		[
+			"print (a)",
+			"print a",
+			"a = 'valera'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/W/home/localhost/www/bionator",
+		"/W/home/localhost/www/bionator/scripts"
+	],
+	"file_history":
+	[
+		"/W/home/localhost/www/bioSite/index.html",
+		"/W/home/localhost/www/bionator/assets/users.json",
+		"/E/webServers/home/localhost/www/tank2/js/tanks.js",
+		"/W/home/localhost/www/tank2/node_modules/eureca.io/examples/0-helloworld/index.html",
+		"/W/home/localhost/www/tank2/node_modules/eureca.io/examples/0-helloworld/server.js",
+		"/W/home/localhost/www/tank2/server2.js",
+		"/W/home/localhost/www/tank2/js/tanks.js",
+		"/W/home/localhost/www/tank2/index.html",
+		"/W/home/localhost/www/tank2/node_modules/eureca.io/examples/6-authentication/index.html",
+		"/W/home/localhost/www/tank2/js/eureca.js",
+		"/W/home/localhost/www/tank2/node_modules/eureca.io/examples/6-authentication/client.js",
+		"/W/home/localhost/www/tank2/server.js",
+		"/W/home/localhost/www/wocap/scripts/WoCaP.js",
+		"/W/home/localhost/www/wocap/scripts/srvr.js",
+		"/W/home/localhost/www/wocap/scripts/src/demo-particle/app.js",
+		"/W/home/localhost/www/toHTML5/scripts/nenOrgAnim.js",
+		"/D/World_of_Tanks/res/scripts/item_defs/tankmen/china.xml",
+		"/W/home/localhost/www/wocap/scripts/src/demo-loadbalancing/cloud-app-info.js",
+		"/W/home/localhost/www/wocap/scripts/src/demo-loadbalancing/app.js",
+		"/W/home/localhost/www/toHTML5/scripts/someFunctions.js",
+		"/W/home/localhost/www/toHTML5/RoadMap",
+		"/W/home/localhost/www/toHTML5/scripts/phaser.min.js",
+		"/D/hhh.txt",
+		"/W/home/localhost/www/toHTML5/index.html",
+		"/W/home/localhost/www/popuptst/load-modal.html",
+		"/W/home/localhost/www/toHTML5/576/.DS_Store",
+		"/W/home/localhost/www/toHTML5/576/btnplaypause_57.as",
+		"/W/home/localhost/www/toHTML5/576/MainTimeline.as",
+		"/W/home/localhost/www/toHTML5/scripts/WoCaP.js",
+		"/E/webServers/home/localhost/www/popuptst/load-modal.html",
+		"/E/webServers/home/localhost/www/dbtst/phps/index.php",
+		"/E/webServers/home/localhost/www/dbtst/phps/reg.php",
+		"/E/webServers/home/localhost/www/dbtst/phps/save_user.php",
+		"/E/webServers/home/localhost/www/dbtst/phps/db.php",
+		"/E/webServers/home/localhost/www/dbtst/phps/bd.php",
+		"/E/webServers/home/localhost/www/dbtst/phps/testreg.php",
+		"/C/Users/dmitr/Downloads/db_poolusers.sql",
+		"/E/webServers/home/localhost/www/dbtst/exampl/bd.php",
+		"/W/home/localhost/www/dbtst/php/db.php",
+		"/W/home/localhost/www/dbtst/php/reg.php",
+		"/W/home/localhost/www/dbtst/php/save_user.php",
+		"/W/home/localhost/www/dbtst/php/index.php",
+		"/W/home/localhost/www/dbtst/php/testreg.php",
+		"/E/webServers/home/localhost/www/dbtst/lib/connect.php",
+		"/E/webServers/home/localhost/www/dbtst/registration/template/registration.php",
+		"/E/webServers/home/localhost/www/dbtst/registration/index.php",
+		"/E/webServers/home/localhost/www/dbtst/lib/function-global.php",
+		"/E/webServers/home/localhost/www/dbtst/lib/regstr.js",
+		"/E/webServers/home/localhost/www/pool/scripts/pool.js",
+		"/E/webServers/home/localhost/www/pool/scripts/dojo.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$",
+			"id='bionator",
+			"canva",
+			"console.",
+			"debug in",
+			"bubbler.w",
+			"progre",
+			"progres",
+			"json",
+			"scrtex",
+			"font",
+			"bubbleR.wi",
+			"font",
+			"scrtex",
+			"bubbler",
+			"scrtex",
+			"bubbler",
+			"scrt",
+			"bublL",
+			"console.log",
+			"indx",
+			"scrte",
+			"scrText",
+			"scrTe",
+			"(tt)",
+			"scrte",
+			"setText",
+			"txts",
+			"scrte",
+			"assets",
+			"lang",
+			"data",
+			"attrMarker",
+			"debug",
+			"markers",
+			"sizer",
+			"newMarker",
+			"create",
+			"player",
+			");\n",
+			"useGroups",
+			"updateCheckerVisibility",
+			"click",
+			"touch",
+			"click",
+			"vacant",
+			"field",
+			"twee",
+			"bg3",
+			"btns[pl",
+			"yeld",
+			"frpt['yelDn']",
+			"yel",
+			"fr36",
+			"maskfr6",
+			"frp[6]",
+			"twr6",
+			".add.sp'red",
+			".add.im",
+			"fr2[1",
+			"fr2[10",
+			"fr210",
+			"fr2[1",
+			"tween",
+			"alpha",
+			"framesAdding",
+			"paus",
+			"null",
+			";\n",
+			"+=",
+			"updateProgressBar",
+			"btn3",
+			"local"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								994,
+								994
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scripts/bionator_d.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1344,
+								1344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 678.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scripts/bionator_p.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								666,
+								666
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scripts/bionator_s.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3312,
+								3312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2341.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "readme.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								802,
+								802
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "assets/data.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "roadmap",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								454,
+								454
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 296.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.644489795918,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bionator.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
